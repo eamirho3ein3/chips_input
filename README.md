@@ -7,4 +7,6 @@ A Flutter project that show how to use chips_input:
  
 ```
 
+and using `-` in your keyboard to make chips.
+
 ![](gif.gif)
